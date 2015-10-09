@@ -90,3 +90,4 @@ root         6  0.3  0.8  58360 17008 ?        S+   08:30   0:00 /usr/bin/python
 root        11  0.2  0.9 143544 20104 ?        Sl+  08:30   0:00  \_ /usr/bin/python /usr/local/bin/gunicorn -b 0.0.0.0:80 --worker-class socketio.sgunicorn.GeventSocketIOWorker
 
 http://192.168.99.100:32775
+http://dincersalihkurnaz.com 
